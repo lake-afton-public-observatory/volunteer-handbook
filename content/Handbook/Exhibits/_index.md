@@ -120,6 +120,8 @@ The interaction an Observatory staff member has with people in the exhibit area 
 
 Only set up the outdoor exhibits if the sun is below the horizon and the forecast shows no wind gusts over 25mph. If the wind picks up or if it starts raining put the exhibits away immediately. All exhibits should be returned to the shed at the end of the night. Turn off the lights and lock the shed before leaving. Give the handle a good tug to make sure both doors are completely locked. Arrange the exhibits as indicated below:
 
+![outdoor-exhibits](./exhibits-outdoor.png)
+
 <span style='float:right;'>[top](#)</span>
 
 ### Constellation Tour

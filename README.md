@@ -1,7 +1,7 @@
 
 # Lake Afton Public Observatory - Volunteer Handbook
 
-[![Deploy Hugo site to Pages](https://github.com/lake-afton-public-observatory/lapo-volunteer-handbook/actions/workflows/hugo.yml/badge.svg)](https://github.com/lake-afton-public-observatory/lapo-volunteer-handbook/actions/workflows/hugo.yml)
+[![Deploy Hugo site to Pages](https://github.com/lake-afton-public-observatory/volunteer-handbook/actions/workflows/hugo.yml/badge.svg)](https://github.com/lake-afton-public-observatory/volunteer-handbook/actions/workflows/hugo.yml)
 
 This project consists of static web pages providing information for Lake Afton Public Obversatory volunteers.s
 
@@ -69,7 +69,7 @@ However, if you are just cloning the existing ELAPO Volunteer Handbook project f
 Create a virtual environment for the LAPO Volunteer Handbook Project.  
 Begin by creating a directory for the Python virtual environment;
 
-Example... from within your lapo-volunteer-handbook project folder
+Example... from within your volunteer-handbook project folder
 
 ```
 virtualenv venv
@@ -77,7 +77,7 @@ virtualenv venv
 
 #### Activate the virtual environment:
 
-You can do this from any folder location, recommend from your local github\lapo-volunteer-handbook project folder
+You can do this from any folder location, recommend from your local github\volunteer-handbook project folder
 
 ```
 venv\Scripts\activate.bat
@@ -90,7 +90,7 @@ See the pip-dependencies.txt file for the Python package requirements for the LA
 ### Install Python Packages
 
 **Short-cut**: to install *ALL* pip dependencies:
-The following *must* be done from your local github\lapo-volunteer-handbook project folder, where the pip-dependencies.txt exists...
+The following *must* be done from your local github\volunteer-handbook project folder, where the pip-dependencies.txt exists...
 
 ```python
 pip install -r pip-dependencies.txt
@@ -99,7 +99,7 @@ pip install -r pip-dependencies.txt
 ### Start Hugo Server - for local testing
 
 To start the Hugo dev server for testing.
-From the lapo-volunteer-handbook folder, execute the following command
+From the volunteer-handbook folder, execute the following command
 
 	hugo server -D
 
@@ -107,13 +107,13 @@ You can then open the local site (url displayed in the output from above conmand
 	
 ## Clone this Project
 
-From the GitHub repository: https://github.com/lake-afton-public-observatory/lapo-volunteer-handbook.git
+From the GitHub repository: https://github.com/lake-afton-public-observatory/volunteer-handbook.git
 select Clone and copy the URL to the repo.
 
 Then from your local project folder (I am using c:\git\github), execute the following git command:
 
 ```git
-git clone https://github.com/lake-afton-public-observatory/lapo-volunteer-handbook.git
+git clone https://github.com/lake-afton-public-observatory/volunteer-handbook.git
 ```
 
 ## Build and Deployment

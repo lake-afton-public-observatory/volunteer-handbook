@@ -102,14 +102,22 @@ You should always watch the **SiTechExe** window in addition to the telescope du
 
 - Double click the Sky Tools shortcut on the lower left monitor to launch the program.  
   
+    ![skytools3](./st3-icon.png)
+  
 - There are 5 tabs across the top of the display. Options for telescope control are on the Real Time tab.  
+
+    ![skytools-main](./st3-main.png)
 
 - Select the appropriate Group and List to view the object list for the current program. Each weekend throughout the year has its own list and theme.   
 
 - Click on “Telescope Control” and then “Connect to Telescope” to connect Sky Tools to the telescope.  
 
+    ![skytools-main](./st3-connect-telescope.png)
+
 - You can then right click on any listed object and select Slew Scope to (F3). Be sure the telescope pier is clear of people and the step ladder before moving the telescope.  
  
+     ![skytools-main](./st3-slew-telescope.png)
+
  <span style='float:right;'>[top](#)</span>
 
 #### Explainer Notes

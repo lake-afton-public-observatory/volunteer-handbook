@@ -52,13 +52,16 @@ Annual Admission Passes are available for individuals, youths, seniors and famil
 5. Turn on the receipt printer by flipping the rocker switch on the bottom of the left side of the printer. The printer must be on for the Square App to open the drawer.
 
 6. Open the Square app by tapping on the icon.
- 
 
+   ![cash-register-main](./square-ipad.jpg)
+ 
 7. Tap the 3 lines to open the Menu.  
    Select reports and confirm the starting cash amount.  
    Enter the Lead’s name and your name for the Drawer Description.  
    Tap Start Drawer.  
  
+   ![cash-register-main](./square-start-drawer.png)
+
 <span style='float:right;'>[top](#)</span>
 
 ## Cash Register Transaction
@@ -68,10 +71,11 @@ Annual Admission Passes are available for individuals, youths, seniors and famil
    There is a Family Rate Discount for use in discounting a family admission back to $20. Use the Discounts button to access a menu of discount options: Annual Pass discount, Cloudy Night discount, etc, … 
    Use the Donation button to enter any donated monies.
    
-   > **NOTE**  
-   > Seniors, Military members, and Sedgwick County Employees receive discounts on admission.  
+   > **NOTE**: Seniors, Military members, and Sedgwick County Employees receive discounts on admission.  
    > For these individuals, use the Discount icon featuring the man with a white beard.  
  
+     ![cash-register-main](./square-pos-main.jpg)
+
 2. We keep track of the quantities of various age groups that visit us to aid in applying for grants. Always indicate the age groups that are represented and the quantities of each. Then, if necessary, tap the Family Rate or Discounts icon in the second row to subtract the needed amount to make the final total the correct (e.g. $20 for a family, or $3/person for scheduled private events). If the customer is an Annual Pass holder, select the proper Pass Type, by tapping the Discount button next to the Family Rate button. This will subtract the amount for you.
 
 3. After an admission category has been selected, there are options to change the quantity, apply the 50% Cloudy Night Coupon and/or the Employee Discount (10% for merchandise).
@@ -90,12 +94,13 @@ Annual Admission Passes are available for individuals, youths, seniors and famil
 
 Visitors may have made reservations from the LakeAfton.com website and prepaid for their visit. Reservations can be found under the SquareSpace Reservations icon on the iPad Home screen. For guests with reservations, select the date of the evening program, and locate the reservation for their name, and select Checked In:
 
+   ![reservations](./squarespace-reservations.jpg)
+
 <span style='float:right;'>[top](#)</span>
 
 ## Cash Register Shutdown Procedure
 
-> **NOTE**  
-> Make sure that the printer is turned ON for the shutdown procedure to complete correctly.
+> **NOTE**: Make sure that the printer is turned ON for the shutdown procedure to complete correctly.
 
 1. Tap the 3 lines (hamburger menu) at the bottom left of the screen to open the menu.
 
