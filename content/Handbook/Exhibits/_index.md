@@ -326,3 +326,7 @@ Why are the photos in the light trap better than what we see through the telesco
 **Suggestions of What to Do**: If you are showing visitors views of the moon with the telescope, it is a good idea to suggest to people that they should examine this exhibit. A good lead-in is to point out that the craters on the moon are best seen when the moon is not full, and that they show up best on the parts of the moon where the sun is just rising or setting. A Day on the Moon illustrates these points.
 
 **Questions/Comments**: At what times of the lunar day do the craters show up the best? There is a flat, darker region on the model. At what time of the lunar day is it easiest to distinguish that area from the lighter areas? Is full moon necessarily the best time to observe the moon through a telescope? What is the best part of the moon to look at through a telescope if you want to see craters?
+
+<br/>
+
+&raquo; Next Section: [What If?](/handbook/what-if/)

@@ -41,3 +41,7 @@ Oversees development, organization, maintenance, and planning of upcoming exhibi
 Oversees coordination, planning, correspondence, and operation of private events. 
 
 If you have a skill set that could benefit one of the above positions, let us know. We are always looking to build teams to support the Auxiliary Board of Directors since most of us work full-time jobs outside of the observatory.
+
+<br/>
+
+&raquo; Next Section: [Responsibilities and Benefits](/handbook/responsibilities/)

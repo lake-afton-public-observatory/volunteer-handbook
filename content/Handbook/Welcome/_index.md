@@ -21,3 +21,7 @@ We want to share the wonders of the universe with the general public, young and 
 Seeing celestial objects through the 16” telescope is a treat enough in itself, but interactive exhibits and informative presentations help people learn the science behind the formation, behavior, and ultimate fate of each of these objects. You don’t have to have all of the answers.  
 
 We just want to educate and share our enthusiasm with public, and you are a necessary part of that goal. Our purpose is to provide people an opportunity to learn more about the universe and what takes place in it.
+
+<br/>
+
+&raquo; Next Section: [History](/handbook/history/)

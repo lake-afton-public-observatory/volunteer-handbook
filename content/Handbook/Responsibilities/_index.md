@@ -105,3 +105,7 @@ The volunteer scheduled for the “Exhibit” position is responsible for turnin
 See Indoor Exhibit Section for Setup and Shutdown Procedures.
 
 > NOTE: It is not imperative that you stay in the same position all night. You are welcome to switch or rotate with another volunteer during the evening.
+
+<br/>
+
+&raquo; Next Section: [Admission and Register](/handbook/admission-and-register/)

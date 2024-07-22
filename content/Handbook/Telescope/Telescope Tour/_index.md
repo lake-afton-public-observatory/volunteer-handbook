@@ -55,3 +55,7 @@ Some people see things better with their glasses, while others see better withou
 The telescope should be focused so you shouldn't have to refocus it. (We discourage people from focusing the telescope so that it can remain focused for others. If someone does refocus it, make sure you check the focus before the next person looks.) The fuzziness or unfocused image that you see is often caused by the atmosphere.
 
 <span style='float:right;'>[top](#)</span>
+
+<br/>
+
+&raquo; Next Section: [Exhibits](/handbook/exhibits/)

@@ -12,6 +12,7 @@ notes: ""
   - [SiTechExe](#sitechexe)
   - [Sky Tools 3](#sky-tools-3)
   - [Explainer Notes](#explainer-notes)
+- [Some Thoughts on Presenting](#some-thoughts-on-presenting)
   
 ---
 
@@ -40,6 +41,9 @@ On the control panel below the telescope, there are three power switches that po
 
     > **WARNING**: If you have an over-limit condition during an automated slew from the computer you must cancel/stop that slew before pressing the limit override. Failure to do so will result in the telescope continuing to slew to the requested object as soon as you press override.
 
+- **ELECTRIC FOCUS** - The handcontroller has electronic focus (the buttons located the on left- and right-side of the handcontroller) and the Electric Focus switch is usually in the Off position to prevent inadvertent use of the buttons on the handcontroller.  This electric focus adjustment moves the secondary mirror and is usually only necesary if using an eyepiece other than the usual 40mm. The elecric focus is motorized and is slow to begin moving and will coast to a stop after button release and can be a bit tricky to use.  
+The focus control on the eyepiece focuser is usually adequate for fine tune focus.  
+
 - **HAND CONTROLLER** – Manually controls movement of the telescope in 4 directions (N, S, E, W), focus (side button) and the slew rate of the telescope (3 buttons on top). 
 
     ![telescope-communication](./telescope-hand-controller.png)
@@ -56,7 +60,7 @@ You may launch **Sky Tools**, **SkyView**, or any other charting application at 
 
 Once the controller is on and the PC has finished booting up in Windows, double click on the SiTechExe icon. This program allows the telescope controller to communicate with Sky Tools or other charting programs. Even if SiTechExe (small window shown below) is not be used to control the scope, the program must always remain active while using Sky Tools.
 
-   ![telescope-communication](./scitech-control.png) 
+   ![telescope-communication](./sitech-control-panel.gif) 
 
 There are several features on the **iTechExe** window that you should be aware of…
 
@@ -145,3 +149,23 @@ The upper left-hand monitor is usually where the Explainer Notes are displayed. 
     NOTE: This feature is only available from the LAPO Telescope computer.
 
 <span style='float:right;'>[top](#)</span>
+
+### Some Thoughts on Presenting
+
+- Always engage with the Public
+- Explain what you can about each object they see
+- Explain what is going on – especially if there is a delay
+- Show as many objects as possible and use the microphone to make announcements when changing objects
+- Don’t let them be a “One and Done” – Mention something about the next object before they leave to dome room.
+- Never engage in a debate
+
+**Safety and Crowd Control**
+
+- The person at the desk should yell “Clear” before moving the scope. We don't want to hit any quests or the step-ladder during telescope movement.  
+- If there is a line, have everyone line up behind the scope
+
+<span style='float:right;'>[top](#)</span>
+
+<br/>
+
+&raquo; Next Section: [Telescope Operation](/handbook/telescope/telescope-operation/)

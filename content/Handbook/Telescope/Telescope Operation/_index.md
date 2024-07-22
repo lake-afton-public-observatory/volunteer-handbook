@@ -23,11 +23,13 @@ notes: ""
 
 3. If one must go on the roof to fix a shutter problem, ensure that NO sharp objects contact the roof. The roof is a rubber membrane. Tiny punctures may be patched; tears usually make replacement necessary.
 
-4.  Turn on the telescope by plugging in the power cord at the base of the telescope, then switch on all three switches.  
-    
-    > **NOTE**: the middle switch must be pulled out to toggle it.  
+4. Plug in the PC at the desk using the power switch behind the monitors.  
 
-5.  Plug in the PC at the desk using the power switch behind the monitors.  
+5. Turn on the telescope by plugging in the power cord at the base of the telescope, then switch on all three switches.  
+    
+    ![telescope-operation](./telescope-switches.png)
+
+    > **NOTE**: the middle switch must be pulled out to toggle it.    
 
 6.  After Windows loads, launch **SiTechExe** and verify communications with the telescope controller
 
@@ -35,21 +37,30 @@ notes: ""
 
 8.  Launch **Sky Tools** or click on **SkyView** in the SiTechExe window
 
-9.  Course Alignment (Optional): if the telescope was previously shutdown pointing straight up (Zenith) then you may do a course alignment to Zenith.  
+9.  **Course Alignment** (Optional): if the telescope was previously shutdown pointing straight up (Zenith) then you may do a course alignment to Zenith.  
     
     - Using **SkyView**: Find the small yellow "+" at the exact center of the chart (zoom in for accuracy with the mouse wheel).  
     - Right-click on the "+" and select "**GoTo or Sync...**, 
     - then click the **Sync** in the pop-up window 
     - ... and then **OK** in the **InitPoint** window.
 
-10.  Removing the dust covers: Use the hand-controller to move the telescope down to the East at about a 30-degree angle.  Use the steps if necessary to remove both the main scope and finder scope covers.
+10.  Removing the dust covers: Use the hand-controller to move the telescope down to the East at about a 30-degree angle. You can press **S** and **E** at the same time lower the telescope and remove both the main scope and finder scope covers.
+  
+   ![telescope-communication](./telescope-hand-controller.png)
 
-11.  Precision Alignment:  Looking outside, find and identify a bright star (preferred) or planet.  If course aligned, you may do a **GoTo** using **Sky Tools** or **SkyView**.  Center the star in the telescope's eyepiece using the hand-controller.  
-    
-    - Using **SkyView**: Click on that star in the chart. 
-    - Click on **Sync** in the first pop-up window.  
-    - Click on **OK** in the **InitPoint** pop-up window.
+11.  Precision Alignment:  Looking outside, find and identify a bright star (preferred) or planet.  
+     Once course aligned (see above), you may select a target star and do a **GoTo** using **Sky Tools** or **SkyView**.  
 
+     Center the star in the telescope's eyepiece using the hand-controller:
+     - Center it in the Telrad
+     - Center it in the Refractor
+     - Center it in the Main Scope
+     - Using **SkyView**: Click on that star in the chart. 
+     - Click on **Sync** in the first pop-up window.  
+     - Click on **OK** in the **InitPoint** pop-up window.
+
+     > **NOTE**: first two bullet points may not be necessary if your course alignment was good.     
+  
 12.  Ready for Observing!
 
 13.  Turn on lights underneath the top step of the ladder to assist guests. 
@@ -82,7 +93,34 @@ notes: ""
 
 ### Troubleshooting Tips
 
-- If SiTechExe is displaying “Below Horizon Limit” and won’t start up Tracking, it may be necessary to open SkyView and Sync to an object overhead before you can do anything else.
+- **Over Limit** - Our Telescope Control System has TWO overlimit protection systems.  
+
+    When the PC is properly synced to the telescope, SciTechEXE will not allow you to slew to an object below 10 degrees above the horizon.
+
+    When the telescope physically moves too low, mercury switches on the telescope detect this and stop all motion. This is when the OverLimit pushbutton starts to flash.
+
+    **Ways to get into Over Limit**
+
+    - Intentionally with the Hand Control – Perhaps when removing the covers.  
+    - The Telescope is out of Sync with the PC.  
+    - Tracking beyond the limit when viewing an object low in the West.  
+    - If SiTechExe is displaying “Below Horizon Limit” and won’t start up Tracking, it may be necessary to open SkyView and Sync to an object overhead before you can do anything else.  
+    <br/>
+
+    **How to get out of Over Limit**
+
+    You select an object at the PC then tell the computer to slew to it, but the telescope moves too far and the Overlimit light starts to flash.  
+    Always perform these steps in this order…
+
+    - Click STOP in the SciTechEXE Window to cancel the Go-To Command
+    - Reset the telescope controller fault (Blinky Mode) - if necessary
+    - Hold the Overlimit pushbutton and use the Hand Control at Pan speed to move the scope to a more vertical position.
+
+    > **NEVER** hold the Overlimit button and use the PC to move the telescope.  
+    > The PC is no longer sync’d to the scope – ***Don’t trust it!***
+
+     - Center on a new object and Re-Sync the telescope to the PC.  
+    <br/>
 
 - If SiTechExe is not communicating with the Scope Controller (Bad Scope Commun and/or Faking Servos), first click on the Config Tab and then Cycle Comm Port. You may also click the Change Config button and then check under the Misc tab to confirm a valid Comm Port is selected. If this doesn’t work check the USB cable into the back of the PC. It may also be necessary to restart the PC and cycle the CONTROL power switch below the telescope. The LED near the top right on the controller mounted behind the telescope will be flickering when the controller is communicating with the PC.
 
@@ -97,3 +135,7 @@ notes: ""
 - The easiest way to reset a fault is to simply click on the lowest button in the SiTechExe window (Scope tab), however some faults may require a complete reset of the CONTROL power switch below the telescope. Please write down details about what the telescope was doing before the fault, or even better, take a picture of the Controller Stuff window before you reset, to aid in troubleshooting later.
 
 > **ATTENTION**:  Under NO circumstances should the counter weights be brought across the top of the polar axis! If this occurs, the cables which provide power to the motors which move the telescope, and other computer cables, will become wrapped around the axis, stretch, and finally break, disabling the telescope.
+
+<br/>
+
+&raquo; Next Section: [Telescope Tour](/handbook/telescope/telescope-tour/)

@@ -55,3 +55,7 @@ The observatory can be open for holidays, depending on staff availability. This 
 ## Volunteer Conduct
 
 How our volunteers conduct themselves is a large part of how our guests will think of LAPO as an organization. Help us welcome every guest (or potential guest) that walks through our doors. Be attentive, respectful, and polite. This is important in person or through social media.
+
+<br/>
+
+&raquo; Next Section: [Hierarchy](/handbook/hierarchy/)
