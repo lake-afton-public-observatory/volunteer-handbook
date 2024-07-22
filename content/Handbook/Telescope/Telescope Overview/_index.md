@@ -168,4 +168,5 @@ The upper left-hand monitor is usually where the Explainer Notes are displayed. 
 
 <br/>
 
-&raquo; Next Section: [Telescope Operation](./handbook/telescope/telescope-operation/)
+&raquo; Next Section: [Telescope Operation](../telescope-operation/)
+

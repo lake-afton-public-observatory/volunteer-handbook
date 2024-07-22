@@ -24,4 +24,4 @@ We just want to educate and share our enthusiasm with public, and you are a nece
 
 <br/>
 
-&raquo; Next Section: [History](/handbook/history/)
+&raquo; Next Section: [History](../history/)
