@@ -1,4 +1,4 @@
-baseURL = "https://lake-afton-public-observatory.github.io/"
+baseURL = "https://lake-afton-public-observatory.github.io/volunteer_handbook/"
 languageCode = "en-us"
 title = "Lake Afton Public Observatory - Volunteer Handbook"
 theme = "hugo-theme-techdoc"
