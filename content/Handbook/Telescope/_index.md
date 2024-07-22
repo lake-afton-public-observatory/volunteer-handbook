@@ -87,4 +87,4 @@ Lunt Engineering ED-APO Refractor
 
 <br/>
 
-&raquo; Next Section: [Telescope Overview](/handbook/telescope/telescope-overview/)
+&raquo; Next Section: [Telescope Overview](/volunteer-handbook/handbook/telescope/telescope-overview/)

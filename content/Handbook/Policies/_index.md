@@ -58,4 +58,4 @@ How our volunteers conduct themselves is a large part of how our guests will thi
 
 <br/>
 
-&raquo; Next Section: [Hierarchy](/handbook/hierarchy/)
+&raquo; Next Section: [Hierarchy](/volunteer-handbook/handbook/hierarchy/)

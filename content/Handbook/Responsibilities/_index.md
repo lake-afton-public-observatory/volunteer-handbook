@@ -108,4 +108,4 @@ See Indoor Exhibit Section for Setup and Shutdown Procedures.
 
 <br/>
 
-&raquo; Next Section: [Admission and Register](/handbook/admission-and-register/)
+&raquo; Next Section: [Admission and Register](/volunteer-handbook/handbook/admission-and-register/)

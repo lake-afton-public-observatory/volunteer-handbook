@@ -44,4 +44,4 @@ If you have a skill set that could benefit one of the above positions, let us kn
 
 <br/>
 
-&raquo; Next Section: [Responsibilities and Benefits](/handbook/responsibilities/)
+&raquo; Next Section: [Responsibilities and Benefits](/volunteer-handbook/handbook/responsibilities/)

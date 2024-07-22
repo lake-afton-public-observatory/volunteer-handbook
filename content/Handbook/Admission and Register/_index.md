@@ -269,4 +269,4 @@ There is also a LAPO Volunteer (employee discount) of 10% available located unde
 
 <br/>
 
-&raquo; Next Section: [Telescope](/handbook/telescope/)
+&raquo; Next Section: [Telescope](/volunteer-handbook/handbook/telescope/)

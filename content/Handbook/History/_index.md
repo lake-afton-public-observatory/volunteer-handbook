@@ -15,4 +15,4 @@ Just one year later, the observatory was reopened by local volunteers, mostly fr
 
 <br/>
 
-&raquo; Next Section: [Policies](/handbook/policies/)
+&raquo; Next Section: [Policies](/volunteer-handbook/handbook/policies/)

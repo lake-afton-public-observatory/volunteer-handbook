@@ -58,4 +58,4 @@ The telescope should be focused so you shouldn't have to refocus it. (We discour
 
 <br/>
 
-&raquo; Next Section: [Exhibits](/handbook/exhibits/)
+&raquo; Next Section: [Exhibits](/volunteer-handbook/handbook/exhibits/)

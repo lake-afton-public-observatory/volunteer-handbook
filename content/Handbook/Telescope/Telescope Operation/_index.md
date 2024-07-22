@@ -138,4 +138,4 @@ notes: ""
 
 <br/>
 
-&raquo; Next Section: [Telescope Tour](/handbook/telescope/telescope-tour/)
+&raquo; Next Section: [Telescope Tour](/volunteer-handbook/handbook/telescope/telescope-tour/)
