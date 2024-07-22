@@ -156,7 +156,7 @@ The upper left-hand monitor is usually where the Explainer Notes are displayed. 
 - Explain what you can about each object they see
 - Explain what is going on – especially if there is a delay
 - Show as many objects as possible and use the microphone to make announcements when changing objects
-- Don’t let them be a “One and Done” – Mention something about the next object before they leave to dome room.
+- Don’t let them be a “One and Done” – Mention something about the next object before they leave the dome room.
 - Never engage in a debate
 
 **Safety and Crowd Control**
