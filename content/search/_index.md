@@ -118,7 +118,7 @@ window.onload = function() {
 </script>
 
 To search the LAPO Volunteer Handbook, please enter your search terms here...
-TEST  
+  
 <input class="search-input" id="search-input" type="text" placeholder="Loading..." name="search">
 
 <br/>
