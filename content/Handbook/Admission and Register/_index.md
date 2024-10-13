@@ -33,9 +33,9 @@ We accept cash or credit/debit cards
 
 |Age|Admission|
 |---|---:|
-|Adults (13+)|$8|
+|Adults (14+)|$8|
 |Seniors (65+)|$7|
-|Children (5-12)|$4|
+|Children (5-13)|$4|
 |Children (under 5)|Free|
 |Family Rate<br/>(2 adults and their children)|	$20 |
 
@@ -174,8 +174,8 @@ If the transaction amount is more than $20, then select the Family Rate Discount
 
 **Actions**:
 
-- Adult (13+) Admission x2  
-- Youth (5-12) Admission x2  
+- Adult (14+) Admission x2  
+- Youth (5-13) Admission x2  
    … $24 exceeds $20, so enter  
 - Family Rate Discount: $4.00  
   **NOTE**: _Be sure to NOT enter a negative number here_
@@ -196,8 +196,8 @@ Ring up the family, and enter Family Rate Discount, and then Discount for the Fa
 
 **Actions**:  
 
-- Adult (13+) Admission x2  
-- Youth (5-12) Admission x2  
+- Adult (14+) Admission x2  
+- Youth (5-13) Admission x2  
    … $24 exceeds $20, so enter  
 - Family Rate Discount: $4.00  
     **NOTE**: _Be sure to NOT enter a negative number here_  
@@ -218,8 +218,8 @@ Family admission, then they decide to purchase a Family Annual Pass:
 
 **Actions**:
 
-- Adult (13+) Admission x2
-- Youth (5-12) Admission x2  
+- Adult (14+) Admission x2
+- Youth (5-13) Admission x2  
    … $24 exceeds $20, so enter
 - Family Rate Discount: $4.00  
    **NOTE**: _Be sure to NOT enter a negative number here_
@@ -240,8 +240,8 @@ Family admission, then later during their visit they decide to purchase an Annua
 
 1. Earlier admission was already paid:  
 
-- Adult (13+) Admission x2
-- Youth (5-12) Admission x2  
+- Adult (14+) Admission x2
+- Youth (5-13) Admission x2  
    … $24 exceeds $20, so enter
 - Family Rate Discount: $4.00  
    **NOTE**: _Be sure to NOT enter a negative number here_
