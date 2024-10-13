@@ -100,19 +100,17 @@ The interaction an Observatory staff member has with people in the exhibit area 
 
 11.	Power off the ISS Above Raspberry Pi by using the remote with keypad on both sides (stored inside white box on wall): press the "O" (oh) button on the alpha-keypad three times, then "Enter" ... the monitor should display Powering Off in lower left corner.  Once the monitor turns off ... proceed...
 
-12. Turn power off to the Exhibit Video TV power strip.
+12. Turn power off to the Exhibit Video TV power strip located behind the black door to the right of the monitor -- this also powers off the lights to the three rocket models, and the ISS Above monitor
 
 13.	Do not unplug the power strip from the wall.
 
-14.	Turn off the power strip inside the white box on the wall to the left of the Exhibit Videos monitor. This power strip provides the power to the 74” display on West wall.
+14.	Turn off the overhead lights using the 4-switch light switch to the left of the Exhibit Videos monitor.
 
-15.	Return VR goggles to charging station in office.
+15.	Turn off AC/Heat and Computer switches on the wall to left as you leave to Exhibit Room. They are labeled.
 
-16.	Turn off the overhead lights using the 4-switch light switch to the left of the Exhibit Videos monitor.
+16.	Turn off the switches for the light trap monitors to either side of the doors that lead into the telescope dome.  
 
-17.	Turn off AC/Heat and Computer switches on the wall to left as you leave to Exhibit Room. They are labeled.
-
-18.	Turn off wall lights using rocker switch on the opposite wall of the doors to enter the dome.	
+17. Turn off wall lights using rocker switch on the opposite wall of the doors to enter the dome.	
 
 <span style='float:right;'>[top](#)</span>
 
