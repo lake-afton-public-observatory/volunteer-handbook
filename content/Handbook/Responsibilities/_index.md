@@ -68,6 +68,43 @@ Free Admission and Discounted Merchandise
 
 The lead oversees all of the volunteers and guests during the night. He or she is also responsible for contacting volunteers on the schedule should the program be canceled. The lead is available to answer questions that a volunteer or guest may have. Typically, he or she is the first one there to turn on exhibits, and the last one to leave at the end of the night. As you close be sure to check the facility for cleanliness. (Clean bathrooms, take out trash, check toilet paper/paper towels, etc.)
 
+**Lead Checklist**
+
+1. Unlock Gate and Front doors (both panels).
+2. Turn on both light switches by front door.  (outside lights and middle row of inside lobby lights).  
+3. Turn on Heat/Air (reset thermostat to 70 degrees and verify switch is either on heat or air).  
+4. Turn on lobby lights near office door (turns on outside rows of lights and turn off middle row. Set brightness to 60%).  
+5. Unlock office door.  
+6. Plug in and turn on Office Computer.  
+7. Update any of the displays on the office computer:
+   1. Lobby Left (What's going on tonight).  
+   2. Lobby Right (Astro Photos).  
+   3. Light Trap Left (Images/slides).  
+   4. Light Trap Right (Images/slides).  
+   5. Exhibit Room (Main - Images/slides - updated monthly - what's up).  
+   6. Exhibit Room South (Images/slides - updated monthly) 
+8. Unlock safe and check/prep register bag for the evening.  Take to cashier.  
+9. Turn on Lobby Kiosk.  
+10. Turn on Lobby monitors.  
+11. Turn on the Light Trap monitors.  
+12. Turn on Wall lights.  
+13. Turn on A/C - Heat.  
+14. Turn on Computer station power switch (on West wall).  
+15. Turn on Exhibit room overhead lights.  
+16. Turn on light strip to the right of the Exhibit room Main monitor ( Powers the ISS Above monitor (West wall), Main monitor, three rocket model lights and Raspberry Pi for the Main monitor.  
+17. Turn on Exhibit room Kiosk.  
+18. Turn on Million-in-One exhibit.  
+19. Turn on Selection Display (Apollo Box).  
+20. Turn on Fun With Light exhibit.  
+21. Turn on powerstrip for Saturn IV rocket model lights
+22. Turn on Starlight Room power switch (in left corner) and overhead dimmer switch
+23. Turn on Space Shuttle Challenger exhibit lights (on bottom left side near back).  
+24. Turn on Features Box.  
+25. Turn on Richard's Planisphere.  
+26. Turn on South monitor (Space Exploration Mission Status).  
+27. Check trash cans and empty if necessary
+28. Check and refill bathroom supplies: toilet tissue, hand towels, hand soap
+
 <span style='float:right;'>[top](#)</span>
 
 ### Inside Telescope
