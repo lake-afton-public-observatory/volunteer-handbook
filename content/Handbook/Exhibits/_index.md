@@ -48,7 +48,7 @@ The interaction an Observatory staff member has with people in the exhibit area 
 
 4. Inside the white box to the left of the Exhibit Videos monitor, turn on the power strip, then use the remote control to select the input for the thumb drive of Messier objects.
 
-5. Switch on the power strip to the right of the Exhibit Videos and speakers then use the remote to power on the Exhibit Videos monitor. The video playlist should automatically start. Be sure to return remote to the top of the white box. This power strip also provides power to the small rocket models lighting.
+5. Switch on the power strip to the right of the Exhibit Videos behind the black door and below the speaker, then use the remote to power on the Exhibit Videos monitor. The video playlist should automatically start. Be sure to return remote to the top of the white box. This power strip also provides power to the small rocket models lighting and will auto-power on the ISS Above monitor.
 
 6. Open an app on each computer. See [Computer Games in Exhibits Information](#computer-games) for app descriptions.
 
@@ -98,19 +98,21 @@ The interaction an Observatory staff member has with people in the exhibit area 
 
 10.	Turn off the LAPO Kiosk using the light switch located on the back right of kiosk box.
 
-11.	Turn power off to the Exhibit Video TV power strip.
+11.	Power off the ISS Above Raspberry Pi by using the remote with keypad on both sides (stored inside white box on wall): press the "O" (oh) button on the alpha-keypad three times, then "Enter" ... the monitor should display Powering Off in lower left corner.  Once the monitor turns off ... proceed...
 
-12.	Do not unplug the power strip from the wall.
+12. Turn power off to the Exhibit Video TV power strip.
 
-13.	Turn off the power strip inside the white box on the wall to the left of the Exhibit Videos monitor. This power strip provides the power to the 74” display on West wall.
+13.	Do not unplug the power strip from the wall.
 
-14.	Return VR goggles to charging station in office.
+14.	Turn off the power strip inside the white box on the wall to the left of the Exhibit Videos monitor. This power strip provides the power to the 74” display on West wall.
 
-15.	Turn off the overhead lights using the 4-switch light switch to the left of the Exhibit Videos monitor.
+15.	Return VR goggles to charging station in office.
 
-16.	Turn off AC/Heat and Computer switches on the wall to left as you leave to Exhibit Room. They are labeled.
+16.	Turn off the overhead lights using the 4-switch light switch to the left of the Exhibit Videos monitor.
 
-17.	Turn off wall lights using rocker switch on the opposite wall of the doors to enter the dome.	
+17.	Turn off AC/Heat and Computer switches on the wall to left as you leave to Exhibit Room. They are labeled.
+
+18.	Turn off wall lights using rocker switch on the opposite wall of the doors to enter the dome.	
 
 <span style='float:right;'>[top](#)</span>
 
