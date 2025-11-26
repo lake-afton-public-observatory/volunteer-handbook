@@ -9,6 +9,7 @@ notes: ""
 
 - [Start-up Procedure](#start-up-procedure)
 - [Shut-down Procedure](#shut-down-procedure)
+- [Telescope Focuser](#telescope-focuser)
 - [Troubleshooting Tips](#troubleshooting-tips)
   
 ---
@@ -86,6 +87,25 @@ notes: ""
 5.  Close all programs on the PC. Shut-down Windows and turn off the power switch (light switch) located behind the monitors.
 
 6.  Position the opening of the dome to the South. Close bifurcating shutters and lock them using the latch at the bottom center of the slit.
+
+
+--- 
+
+<span style='float:right;'>[top](#)</span>
+
+### Telescope Focuser
+
+LAPO recently acquired a new focuser for the 16 inch telescope. This focuser was quickly installed and seemed to work fairly well. But, recently we began to notice that it wasn’t moving at all in some cases. Investigation revealed that an internal coupling connecting the two sides of the focus knob shaft had come loose. This prevented one of the two focus knobs from working. We were able to get everything reconnected and cleaned. Damage like this could have been prevented with proper care and knowledge of how to properly use this focuser.
+
+![telescope-focuser](telescope-focuser.jpeg)
+
+**Rotation Lock**: Prevents rotation of the entire focuser. Usually this does not need to be tight. **ALWAYS** rotate the entire focuser rather than just the diagonal when adjusting the view direction. You should never need to loosen the diagonal hold screws until you are ready to remove the diagonal and eyepiece at the end of the evening.  
+
+**Focus Lock**: Prevents focusing. This large set screw is sometimes needed if the focus shaft unintentionally moves on you or if you need to prevent visitors from bumping the focus. **ALWAYS** ensure the focus lock is loose before adjusting focus.  
+
+**Focus Friction Adjust**: This small adjustment screw is **ONLY** used to set the proper friction so the focus barrel will extend and retract smoothly. Ideally it should never be touched, but may require occasional adjustment if the focuser slips or fails to move properly. **NEVER** use the Focus Friction Adjust as a Focus Lock.  
+
+You already understand how the focus knobs work, but it needs to be clear what not to do. Use the two-finger rule when focusing. This means that if you can’t easily focus using just your thumb and index finger on one hand, then adjustments need to be made. **NEVER** try to overpower the focus lock or an improperly set Focus Friction. If you can’t rotate either focus knob with just two fingers (thumb & index) then find out what the problem is. This is very likely how our focuser was recently damaged.
 
 --- 
 
